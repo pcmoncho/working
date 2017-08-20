@@ -1,0 +1,77 @@
+[
+	{
+		"codigo": "13",
+		"tipo": "region",
+		"nombre": "Metropolitana de Santiago"
+	},
+	{
+		"codigo": "15",
+		"tipo": "region",
+		"nombre": "Arica y Parinacota"
+	},
+	{
+		"codigo": "01",
+		"tipo": "region",
+		"nombre": "Tarapac\u00e1"
+	},
+	{
+		"codigo": "02",
+		"tipo": "region",
+		"nombre": "Antofagasta"
+	},
+	{
+		"codigo": "03",
+		"tipo": "region",
+		"nombre": "Atacama"
+	},
+	{
+		"codigo": "04",
+		"tipo": "region",
+		"nombre": "Coquimbo"
+	},
+	{
+		"codigo": "05",
+		"tipo": "region",
+		"nombre": "Valpara\u00edso"
+	},
+	{
+		"codigo": "06",
+		"tipo": "region",
+		"nombre": "Del Libertador Gral. Bernardo O\u2019Higgins"
+	},
+	{
+		"codigo": "07",
+		"tipo": "region",
+		"nombre": "Del Maule"
+	},
+	{
+		"codigo": "08",
+		"tipo": "region",
+		"nombre": "Del Biob\u00edo"
+	},
+	{
+		"codigo": "09",
+		"tipo": "region",
+		"nombre": "De la Araucan\u00eda"
+	},
+	{
+		"codigo": "14",
+		"tipo": "region",
+		"nombre": "De los R\u00edos"
+	},
+	{
+		"codigo": "10",
+		"tipo": "region",
+		"nombre": "De los Lagos"
+	},
+	{
+		"codigo": "11",
+		"tipo": "region",
+		"nombre": "Ays\u00e9n del Gral. Carlos Ib\u00e1\u00f1ez del Campo"
+	},
+	{
+		"codigo": "12",
+		"tipo": "region",
+		"nombre": "Magallanes y de la Ant\u00e1rtica Chilena"
+	}
+]
