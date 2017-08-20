@@ -1,272 +1,272 @@
 [
   {
-    "id_provincia" : "11",
-    "nombre_provincia" : "Iquique",
+    "id" : "11",
+    "nombre" : "Iquique",
     "id_region" : "1"
   },
   {
-    "id_provincia" : "14",
-    "nombre_provincia" : "Tamarugal",
+    "id" : "14",
+    "nombre" : "Tamarugal",
     "id_region" : "1"
   },
   {
-    "id_provincia" : "21",
-    "nombre_provincia" : "Antofagasta",
+    "id" : "21",
+    "nombre" : "Antofagasta",
     "id_region" : "2"
   },
   {
-    "id_provincia" : "22",
-    "nombre_provincia" : "El Loa",
+    "id" : "22",
+    "nombre" : "El Loa",
     "id_region" : "2"
   },
   {
-    "id_provincia" : "23",
-    "nombre_provincia" : "Tocopilla",
+    "id" : "23",
+    "nombre" : "Tocopilla",
     "id_region" : "2"
   },
   {
-    "id_provincia" : "31",
-    "nombre_provincia" : "Copiapó",
+    "id" : "31",
+    "nombre" : "Copiapó",
     "id_region" : "3"
   },
   {
-    "id_provincia" : "32",
-    "nombre_provincia" : "Chañaral",
+    "id" : "32",
+    "nombre" : "Chañaral",
     "id_region" : "3"
   },
   {
-    "id_provincia" : "33",
-    "nombre_provincia" : "Huasco",
+    "id" : "33",
+    "nombre" : "Huasco",
     "id_region" : "3"
   },
   {
-    "id_provincia" : "41",
-    "nombre_provincia" : "Elqui",
+    "id" : "41",
+    "nombre" : "Elqui",
     "id_region" : "4"
   },
   {
-    "id_provincia" : "42",
-    "nombre_provincia" : "Choapa",
+    "id" : "42",
+    "nombre" : "Choapa",
     "id_region" : "4"
   },
   {
-    "id_provincia" : "43",
-    "nombre_provincia" : "Limarí",
+    "id" : "43",
+    "nombre" : "Limarí",
     "id_region" : "4"
   },
   {
-    "id_provincia" : "51",
-    "nombre_provincia" : "Valparaíso",
+    "id" : "51",
+    "nombre" : "Valparaíso",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "52",
-    "nombre_provincia" : "Isla de Pascua",
+    "id" : "52",
+    "nombre" : "Isla de Pascua",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "53",
-    "nombre_provincia" : "Los Andes",
+    "id" : "53",
+    "nombre" : "Los Andes",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "54",
-    "nombre_provincia" : "Petorca",
+    "id" : "54",
+    "nombre" : "Petorca",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "55",
-    "nombre_provincia" : "Quillota",
+    "id" : "55",
+    "nombre" : "Quillota",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "56",
-    "nombre_provincia" : "San Antonio",
+    "id" : "56",
+    "nombre" : "San Antonio",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "57",
-    "nombre_provincia" : "San Felipe",
+    "id" : "57",
+    "nombre" : "San Felipe",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "58",
-    "nombre_provincia" : "Marga Marga",
+    "id" : "58",
+    "nombre" : "Marga Marga",
     "id_region" : "5"
   },
   {
-    "id_provincia" : "61",
-    "nombre_provincia" : "Cachapoal",
+    "id" : "61",
+    "nombre" : "Cachapoal",
     "id_region" : "6"
   },
   {
-    "id_provincia" : "62",
-    "nombre_provincia" : "Cardenal Caro",
+    "id" : "62",
+    "nombre" : "Cardenal Caro",
     "id_region" : "6"
   },
   {
-    "id_provincia" : "63",
-    "nombre_provincia" : "Colchagua",
+    "id" : "63",
+    "nombre" : "Colchagua",
     "id_region" : "6"
   },
   {
-    "id_provincia" : "71",
-    "nombre_provincia" : "Talca",
+    "id" : "71",
+    "nombre" : "Talca",
     "id_region" : "7"
   },
   {
-    "id_provincia" : "72",
-    "nombre_provincia" : "Cauquenes",
+    "id" : "72",
+    "nombre" : "Cauquenes",
     "id_region" : "7"
   },
   {
-    "id_provincia" : "73",
-    "nombre_provincia" : "Curicó",
+    "id" : "73",
+    "nombre" : "Curicó",
     "id_region" : "7"
   },
   {
-    "id_provincia" : "74",
-    "nombre_provincia" : "Linares",
+    "id" : "74",
+    "nombre" : "Linares",
     "id_region" : "7"
   },
   {
-    "id_provincia" : "81",
-    "nombre_provincia" : "Concepción",
+    "id" : "81",
+    "nombre" : "Concepción",
     "id_region" : "8"
   },
   {
-    "id_provincia" : "82",
-    "nombre_provincia" : "Arauco",
+    "id" : "82",
+    "nombre" : "Arauco",
     "id_region" : "8"
   },
   {
-    "id_provincia" : "83",
-    "nombre_provincia" : "Bío-Bío",
+    "id" : "83",
+    "nombre" : "Bío-Bío",
     "id_region" : "8"
   },
   {
-    "id_provincia" : "84",
-    "nombre_provincia" : "Ñuble",
+    "id" : "84",
+    "nombre" : "Ñuble",
     "id_region" : "8"
   },
   {
-    "id_provincia" : "91",
-    "nombre_provincia" : "Cautín",
+    "id" : "91",
+    "nombre" : "Cautín",
     "id_region" : "9"
   },
   {
-    "id_provincia" : "92",
-    "nombre_provincia" : "Malleco",
+    "id" : "92",
+    "nombre" : "Malleco",
     "id_region" : "9"
   },
   {
-    "id_provincia" : "101",
-    "nombre_provincia" : "Llanquihue",
+    "id" : "101",
+    "nombre" : "Llanquihue",
     "id_region" : "10"
   },
   {
-    "id_provincia" : "102",
-    "nombre_provincia" : "Chiloé",
+    "id" : "102",
+    "nombre" : "Chiloé",
     "id_region" : "10"
   },
   {
-    "id_provincia" : "103",
-    "nombre_provincia" : "Osorno",
+    "id" : "103",
+    "nombre" : "Osorno",
     "id_region" : "10"
   },
   {
-    "id_provincia" : "104",
-    "nombre_provincia" : "Palena",
+    "id" : "104",
+    "nombre" : "Palena",
     "id_region" : "10"
   },
   {
-    "id_provincia" : "111",
-    "nombre_provincia" : "Coyhaique",
+    "id" : "111",
+    "nombre" : "Coyhaique",
     "id_region" : "11"
   },
   {
-    "id_provincia" : "112",
-    "nombre_provincia" : "Aisén",
+    "id" : "112",
+    "nombre" : "Aisén",
     "id_region" : "11"
   },
   {
-    "id_provincia" : "113",
-    "nombre_provincia" : "Capitán Prat",
+    "id" : "113",
+    "nombre" : "Capitán Prat",
     "id_region" : "11"
   },
   {
-    "id_provincia" : "114",
-    "nombre_provincia" : "General Carrera",
+    "id" : "114",
+    "nombre" : "General Carrera",
     "id_region" : "11"
   },
   {
-    "id_provincia" : "121",
-    "nombre_provincia" : "Magallanes",
+    "id" : "121",
+    "nombre" : "Magallanes",
     "id_region" : "12"
   },
   {
-    "id_provincia" : "122",
-    "nombre_provincia" : "Antártica Chilena",
+    "id" : "122",
+    "nombre" : "Antártica Chilena",
     "id_region" : "12"
   },
   {
-    "id_provincia" : "123",
-    "nombre_provincia" : "Tierra del Fuego",
+    "id" : "123",
+    "nombre" : "Tierra del Fuego",
     "id_region" : "12"
   },
   {
-    "id_provincia" : "124",
-    "nombre_provincia" : "Última Esperanza",
+    "id" : "124",
+    "nombre" : "Última Esperanza",
     "id_region" : "12"
   },
   {
-    "id_provincia" : "131",
-    "nombre_provincia" : "Santiago",
+    "id" : "131",
+    "nombre" : "Santiago",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "132",
-    "nombre_provincia" : "Cordillera",
+    "id" : "132",
+    "nombre" : "Cordillera",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "133",
-    "nombre_provincia" : "Chacabuco",
+    "id" : "133",
+    "nombre" : "Chacabuco",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "134",
-    "nombre_provincia" : "Maipo",
+    "id" : "134",
+    "nombre" : "Maipo",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "135",
-    "nombre_provincia" : "Melipilla",
+    "id" : "135",
+    "nombre" : "Melipilla",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "136",
-    "nombre_provincia" : "Talagante",
+    "id" : "136",
+    "nombre" : "Talagante",
     "id_region" : "13"
   },
   {
-    "id_provincia" : "141",
-    "nombre_provincia" : "Valdivia",
+    "id" : "141",
+    "nombre" : "Valdivia",
     "id_region" : "14"
   },
   {
-    "id_provincia" : "142",
-    "nombre_provincia" : "Ranco",
+    "id" : "142",
+    "nombre" : "Ranco",
     "id_region" : "14"
   },
   {
-    "id_provincia" : "151",
-    "nombre_provincia" : "Arica",
+    "id" : "151",
+    "nombre" : "Arica",
     "id_region" : "15"
   },
   {
-    "id_provincia" : "152",
-    "nombre_provincia" : "Parinacota",
+    "id" : "152",
+    "nombre" : "Parinacota",
     "id_region" : "15"
   }
 ]

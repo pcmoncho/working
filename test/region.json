@@ -1,62 +1,62 @@
 [
   {
-    "nombre_region" : "I - TARAPACÁ",
-    "id_region" : "1"
+    "nombre" : "I - TARAPACÁ",
+    "id" : "1"
   },
   {
-    "nombre_region" : "II - ANTOFAGASTA",
-    "id_region" : "2"
+    "nombre" : "II - ANTOFAGASTA",
+    "id" : "2"
   },
   {
-    "nombre_region" : "III - ATACAMA",
-    "id_region" : "3"
+    "nombre" : "III - ATACAMA",
+    "id" : "3"
   },
   {
-    "nombre_region" : "IV - COQUIMBO",
-    "id_region" : "4"
+    "nombre" : "IV - COQUIMBO",
+    "id" : "4"
   },
   {
-    "nombre_region" : "V - VALPARAÍSO",
-    "id_region" : "5"
+    "nombre" : "V - VALPARAÍSO",
+    "id" : "5"
   },
   {
-    "nombre_region" : "VI - LIBERTADOR GRAL. BERNARDO O'HIGGINS",
-    "id_region" : "6"
+    "nombre" : "VI - LIBERTADOR GRAL. BERNARDO O'HIGGINS",
+    "id" : "6"
   },
   {
-    "nombre_region" : "VII - MAULE",
-    "id_region" : "7"
+    "nombre" : "VII - MAULE",
+    "id" : "7"
   },
   {
-    "nombre_region" : "VIII - BÍO-BÍO",
-    "id_region" : "8"
+    "nombre" : "VIII - BÍO-BÍO",
+    "id" : "8"
   },
   {
-    "nombre_region" : "IX - LA ARAUCANÍA",
-    "id_region" : "9"
+    "nombre" : "IX - LA ARAUCANÍA",
+    "id" : "9"
   },
   {
-    "nombre_region" : "X - LOS LAGOS",
-    "id_region" : "10"
+    "nombre" : "X - LOS LAGOS",
+    "id" : "10"
   },
   {
-    "nombre_region" : "XI - AYSÉN DEL GRAL. CARLOS IBÁÑEZ DEL CAMPO",
-    "id_region" : "11"
+    "nombre" : "XI - AYSÉN DEL GRAL. CARLOS IBÁÑEZ DEL CAMPO",
+    "id" : "11"
   },
   {
-    "nombre_region" : "XII - MAGALLANES Y LA ANTÁRTICA CHILENA",
-    "id_region" : "12"
+    "nombre" : "XII - MAGALLANES Y LA ANTÁRTICA CHILENA",
+    "id" : "12"
   },
   {
-    "nombre_region" : "REGIÓN METROPOLITANA",
-    "id_region" : "13"
+    "nombre" : "REGIÓN METROPOLITANA",
+    "id" : "13"
   },
   {
-    "nombre_region" : "XIV - LOS RÍOS",
-    "id_region" : "14"
+    "nombre" : "XIV - LOS RÍOS",
+    "id" : "14"
   },
   {
-    "nombre_region" : "XV - ARICA Y PARINACOTA",
-    "id_region" : "15"
+    "nombre" : "XV - ARICA Y PARINACOTA",
+    "id" : "15"
   }
 ]

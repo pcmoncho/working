@@ -3,7 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+    <!--<script type="text/javascript" src="direccion.js"></script> -->
 </head>
+
 <body>
-    
+    <select id="setRegion">	  
+        <option value="">--</option>      
+    </select>
+    <select id="setProvincia">	        
+        <option value="">--</option>
+    </select>
+    <select id="setComuna">	        
+            <option value="">--</option>
+        </select>
 </body>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var regionesList = [];
+        var provinciasList = [];
+        var comunasList = [];
+
+        var provinciaPorRegion = [];
+        var comunaPorProvincia = [];
+
+        (function () {
+            $.getJSON("region.json", function (data) {
+                regionesList = data;
+                //console.log(regionesList);
+                for (i = 0; i < regionesList.length; i++) {
+                    var option = '<option value="' + regionesList[i].id + '">' + regionesList[i].nombre + '</option>'
+                    $('#setRegion').append(option);
+                }
+            });
+        })();
+
+        (function () {
+            $.getJSON("provincia.json", function (data) {
+                provinciasList = data;
+            });
+        })();
+
+        (function () {
+            $.getJSON("comuna.json", function (data) {
+                comunasList = data;
+            });
+        })();
+
+        $("#setRegion").change(function () {
+            $("#setProvincia").val("");
+            $("#setProvincia option").remove();
+            $("#setProvincia").append("<option value=\"\">--</option>");
+            var regionSelected = $(this).val();
+            if(regionSelected != "")
+            {
+                provinciaPorRegion = provinciasList.filter(function(provinciasList){
+                    return provinciasList.id_region == regionSelected
+                });
+            }
+
+            for(i=0; i< provinciaPorRegion.length; i++)
+            {
+                $("#setProvincia").append("<option value=\""+provinciaPorRegion[i].id+"\">"+provinciaPorRegion[i].nombre+"</option>");
+            }
+
+        });
+
+        $("#setProvincia").change(function () {            
+            $("#setComuna").val("");
+            $("#setComuna option").remove();
+            $("#setComuna").append("<option value=\"\">--</option>");
+            var provinciaSelected = $(this).val();
+            if(provinciaSelected != "")
+            {
+                comunaPorProvincia = comunasList.filter(function(comunasList){
+                    return comunasList.id_provincia == provinciaSelected
+                });
+            }
+
+            for(i=0; i< comunaPorProvincia.length; i++)
+            {
+                $("#setComuna").append("<option value=\""+comunaPorProvincia[i].id+"\">"+comunaPorProvincia[i].nombre+"</option>");
+            }
+
+        });
+
+        
+    });
+
+</script>
+
+</html>
